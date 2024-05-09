@@ -14,7 +14,8 @@ Access the app [here](https://thiagodnf.github.io/draw-with-circles).
 
 ## Screenshots
 
-<img class="screenshot" src="https://user-images.githubusercontent.com/114015/208959383-c86e0950-2f7d-4e69-9ec2-e3d59ad388ff.gif"/>
+<img width="1371" alt="Screenshot 2024-05-08 at 9 25 27 PM" src="https://github.com/thiagodnf/draw-with-circles/assets/114015/97f4f7de-d61b-42dd-9e7a-cc42df9f4c56">
+
 
 ## Questions or Suggestions
 
